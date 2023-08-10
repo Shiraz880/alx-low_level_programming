@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
  * main - Entry point
- *
+ 
  * Description: C program that prnits with put fuction
- *
+ 
  * Return: Always 0 
  */
 int main(void)
