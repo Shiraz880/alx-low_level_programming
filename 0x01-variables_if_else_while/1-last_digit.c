@@ -3,7 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - Prints the last digit of a randomly generated number and whether it is greater than 5, less than 6, or 0
+ * main - Entry point
+ *
+ * Description: assign a random number to the variable n in function 'main'
  *
  * Return: Always 0
  */
